@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4b2b6d79-c52a-4a0c-a95b-40607fbbc058">
+  <name>Конфигурация</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="fbf17c57-7362-4826-bc9b-10a50c205776"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="a8d2a032-6f78-4fca-b3ac-c46225a5458c"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="829f89be-4943-499d-ac28-2a21254849fd"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="e55b71e9-222f-4c19-aa8e-d982a79d3468"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="cfcf4cde-f579-4467-9c5b-fb0737714fcd"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="7887cd64-30d3-40fc-a072-9a819b702581"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="e9ee92d5-3e16-4fb5-8f2b-77e94cbe3e62"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <clientApplicationWindowsOpenVariant>OpenDataInDialogs</clientApplicationWindowsOpenVariant>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.5.1</compatibilityMode>
+  <languages uuid="8a6212a7-6a4a-478c-895f-06a0dd7ab675">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <reports>Report.РегламентированныйОтчетСтатистикаФорма1ТОРГ</reports>
+</mdclass:Configuration>
