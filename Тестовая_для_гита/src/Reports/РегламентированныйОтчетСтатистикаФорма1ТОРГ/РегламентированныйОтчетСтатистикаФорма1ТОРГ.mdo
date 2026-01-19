@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="75e0d8fc-0f55-43f2-b6c1-6d1fba9e3d9b">
+  <producedTypes>
+    <objectType typeId="3eaf2a72-42ef-40d6-87da-098a2b660c2f" valueTypeId="e7f63f50-916a-454b-9b13-40850c5742fe"/>
+    <managerType typeId="71503b20-80b6-44a3-80aa-a3fd62b0002e" valueTypeId="0da47680-1f0c-48db-bd91-4684f2f255a8"/>
+  </producedTypes>
+  <name>РегламентированныйОтчетСтатистикаФорма1ТОРГ</name>
+  <synonym>
+    <key>ru</key>
+    <value>Форма 1-ТОРГ &quot;Сведения о продаже товаров организациями оптовой и розничной торговли&quot;</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <templates uuid="d536eb72-b502-4f34-9857-ed24b2c2ea27">
+    <name>Списки2021Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Списки2021 кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="c642e742-c070-4632-a52d-f13f85242d64">
+    <name>СхемаВыгрузкиXML2021Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки XML2021 кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="789acebd-8cef-4c2b-875e-5719380987df">
+    <name>СхемаВыгрузкиXML2023Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки XML2023 кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="05b1259c-2fb5-4b8a-8dfc-abf0574e69ed">
+    <name>СхемаВыгрузкиXML2024Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки XML2024 кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="9eee47da-b9de-47f0-a454-3b2939776fdb">
+    <name>СхемаВыгрузкиXML2025Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Схема выгрузки XML2025 кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="7c4bfe93-7f2f-4539-bc2f-a0500580f142">
+    <name>ФормаОтчета2021Кв1_ФормаОтчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета2021 кв1 форма отчета</value>
+    </synonym>
+  </templates>
+  <templates uuid="ef359a6a-a984-4d7f-9ac4-68f5af0254dc">
+    <name>ФормаОтчета2023Кв1_ФормаОтчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета2023 кв1 форма отчета</value>
+    </synonym>
+  </templates>
+  <templates uuid="9c3adf38-321d-4365-af64-019e4513c396">
+    <name>ФормаОтчета2024Кв1_ФормаОтчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета2024 кв1 форма отчета</value>
+    </synonym>
+  </templates>
+  <templates uuid="2aa83060-b39c-44c9-a517-5a4315ba79ca">
+    <name>ФормаОтчета2025Кв1_ФормаОтчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета2025 кв1 форма отчета</value>
+    </synonym>
+  </templates>
+  <templates uuid="16beaff9-9b0f-4d25-8d9c-55fcf6202048">
+    <name>СоставПоказателей2021Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Состав показателей2021 кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="e32615c2-f546-494d-82ec-c2896760b29a">
+    <name>СоставПоказателей2023Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Состав показателей2023 кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="520bcd49-2d20-48a8-9f29-9377a2f93b81">
+    <name>СоставПоказателей2024Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Состав показателей2024 кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="e94af557-f607-4efe-908f-a99c56e007db">
+    <name>СоставПоказателей2025Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Состав показателей2025 кв1</value>
+    </synonym>
+  </templates>
+  <templates uuid="b2dc9c12-8e0f-4dc3-aae7-a77cd5ea260d">
+    <name>ШаблонРосстата2024Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Шаблон росстата2024 кв1</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+  <templates uuid="eecd5f60-1e1b-45f1-bf45-beb2eeb0b935">
+    <name>ШаблонРосстата2025Кв1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Шаблон росстата2025 кв1</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+</mdclass:Report>
