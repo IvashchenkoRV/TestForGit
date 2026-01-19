@@ -35,5 +35,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.ОбщийМодуль</commonModules>
   <reports>Report.РегламентированныйОтчетСтатистикаФорма1ТОРГ</reports>
 </mdclass:Configuration>
